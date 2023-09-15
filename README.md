@@ -7,9 +7,8 @@ MyJive Snake is a classic Snake game built using Java Swing. It offers a nostalg
 - Classic Snake gameplay.
 - Intuitive controls using arrow keys.
 - Score tracking to keep track of your progress.
-- Speed increase as the snake grows, making the game progressively challenging.
+- Speed increases as the snake grows, making the game progressively challenging.
 - Game over when the snake collides with walls or itself.
-- Sound effects for a more immersive experience.
 
 ## Screenshots
 
@@ -29,13 +28,13 @@ These instructions will help you get a copy of the project up and running on you
 1. Clone the repository (or download the ZIP file and extract it):
 
    ```bash
-   git clone https://github.com/yourusername/myjive-snake.git
+   git clone https://github.com/Sandile-Dev01/Jive_Snake.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd myjive-snake
+   cd Jive_Snake
    ```
 
 3. Compile the Java source files:
@@ -60,17 +59,13 @@ These instructions will help you get a copy of the project up and running on you
 
 ## Contributing
 
-If you'd like to contribute to MyJive Snake, please follow these steps:
+If you'd like to contribute to my Jive Snake, please follow these steps:
 
 1. Fork the repository on GitHub.
 2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
 3. Make your changes and commit them: `git commit -m "Add new feature"`.
 4. Push your changes to your fork: `git push origin feature-name`.
 5. Open a pull request on the original repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
@@ -79,6 +74,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact us at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions or suggestions, please feel free to contact us at [ndimandesandile778@gmail.com](mailto:ndimandesandile778@gmail.com).
 
 Enjoy the game! 🐍🎮
