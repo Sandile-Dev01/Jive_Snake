@@ -1,0 +1,54 @@
+# Compiled class files
+*.class
+
+# Bytecode directories
+target/
+bin/
+
+# IDE-specific files and directories
+.idea/
+.eclipse/
+.vscode/
+
+# Build artifacts
+build/
+dist/
+out/
+
+# Logs and generated files
+logs/
+*.log
+*.log.*
+*.jks
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*.swp
+*~
+*.tmp
+
+# Dependency directories (Maven, Gradle, etc.)
+# Uncomment the relevant section if you're using a build tool
+
+# Maven
+# /target/
+
+# Gradle
+# /.gradle/
+# /build/
+
+# NetBeans
+# /nbproject/private/
+# /build/
+
+# Eclipse
+# /bin/
+# /bin64/
+# .metadata/
+# .project
+# .classpath
+# .settings/
