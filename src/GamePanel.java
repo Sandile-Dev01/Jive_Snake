@@ -168,6 +168,21 @@ public class GamePanel extends JPanel implements ActionListener {
         FontMetrics metrics = getFontMetrics(g.getFont());
         g.drawString("Game Over!!!", (SCREEN_WIDTH - metrics.stringWidth("Game Over!!!")) / 2, SCREEN_HEIGHT / 2);
     }
+    
+    //Restart game
+    public void restartGame() {
+    	for (int i = 0; i < bodyParts; i++)
+    	{
+    		x[i] = 0;
+    		y[i] = 0;
+    	}
+    	
+    	direction = 'R';
+    	foodEaten = 0;
+    	newFood();
+    	running = true;
+    	timer.start();
+    }
 
     @Override
     public void actionPerformed(ActionEvent e) {
@@ -212,6 +227,10 @@ public class GamePanel extends JPanel implements ActionListener {
                         direction = 'D';
                     }
                     break;
+                    
+                case KeyEvent.VK_SPACE:
+                	restartGame();
+                	break;
             }
         }
     }
