@@ -1,6 +1,6 @@
 # Jive_Snake
 
-MyJive Snake is a classic Snake game built using Java Swing. It offers a nostalgic gaming experience where you control a snake, eat food, and try to grow as long as possible without colliding with walls or yourself.
+Jive Snake is a classic Snake game built using Java Swing. It offers a nostalgic gaming experience where you control a snake, eat food, and try to grow as long as possible without colliding with walls or yourself.
 
 ## Features
 
