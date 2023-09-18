@@ -55,7 +55,7 @@ These instructions will help you get a copy of the project up and running on you
 ## Controls
 
 - Use the **Up**, **Down**, **Left**, and **Right** arrow keys to control the snake's direction.
-- Press **Q** to quit the game at any time.
+- Press **SPACE** to restart the game at any time.
 
 ## Contributing
 
